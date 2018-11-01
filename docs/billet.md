@@ -8,7 +8,9 @@
  - Horaire de la conférence : 14h30
  - Durée de la conférence : 50 minutes
  - Conférencier(s) :
-   - Philippe Charrière 
+   - Philippe Charrière
+    - [Github](https://github.com/k33g)
+    - [Twitter](https://twitter.com/k33g_org)
  - Audience : ...
  - Auteur du billet : Nicolas Douchin
  - Mots-clés

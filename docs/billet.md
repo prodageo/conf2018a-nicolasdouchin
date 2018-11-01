@@ -1,10 +1,10 @@
-# Titre
+# Avec les GitLab Runners, comme Mickey dans Fantasia, devenez un apprenti sorcier de l'intégration continue (et du déploiement) 
 
 ## Cartouche d'identification
 
  - Manifestation : CodeursEnSeine 2018
  - Lieu : Kindarena Métropole Rouen Normandie
- - Conférence :  Avec les GitLab Runners, comme Mickey dans Fantasia, devenez un apprenti sorcier de l'intégration continue (et du déploiement) 
+ - Conférence : Avec les GitLab Runners, comme Mickey dans Fantasia, devenez un apprenti sorcier de l'intégration continue (et du déploiement) 
  - Horaire de la conférence : 14h30
  - Durée de la conférence : 50 minutes
  - Conférencier(s) :

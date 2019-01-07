@@ -19,11 +19,11 @@
  - Lien vers le support (diapos) présenté en conférence : indisponible
  - Nombre de diapos du support : N/A
  - Plan du support : 
-  - Présentation de Gitlab et plus particulièrement de Gitlab CI
-  - Présentation du système de templates pour créer des dépôts facilement.
-  - Explication du fichier `.gitlab-ci.yml`.
-  - Lancement des tests sur différentes branches.
-  - Exemple de livraison grâce à l'outil de déploiement.
+   - Présentation de Gitlab et plus particulièrement de Gitlab CI
+   - Présentation du système de templates pour créer des dépôts facilement.
+   - Explication du fichier `.gitlab-ci.yml`.
+   - Lancement des tests sur différentes branches.
+   - Exemple de livraison grâce à l'outil de déploiement.
 
 ## Résumé
 ...

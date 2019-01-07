@@ -32,12 +32,10 @@ La conférence est une démonstration de l'ensemble des fonctionnalités de Gitl
 
 ## Architecture et facteur qualité
 
-Les facteurs qualités de l'ISO 9126:2001 concernant cette conférence et plus particulièrement Gitlab CI est la **Maintainability** (Maintenabilité). Ce facteur comprend plusieurs sous-facteurs :
+Les facteurs qualités de l'ISO 9126:2001 concernant cette conférence et plus particulièrement Gitlab CI est la **Maintainability**. Ce facteur comprend plusieurs sous-facteurs :
 
 * M1 Analyzability : Grâce à son interface WEB permettant d'afficher l'état des Pipelines mais également de pouvoir accéder à des rapports (stockés en tant qu'artefacts) afin de pouvoir analyser ce qui s'est passé au niveau de l'application lors du passage dans la pipeline.
 * M2 Changeability : C'est le principe même de Gitlab : permettre de réaliser des modifications de l'application. C'est la base du système et c'est sur cette base que viennent se greffer les différents services de Gitlab.
 * M3 Stability :
 * M4 Testability :
 * M5 Maintainability Compliance :
-
-En effet, grâce à Gitlab, le sous-facteur M2 Changeability (Changeabilité) est appliquable. Il est possible de modifier l'application. 

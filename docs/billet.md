@@ -9,8 +9,7 @@
  - Durée de la conférence : 50 minutes
  - Conférencier(s) :
    - Philippe Charrière ([LinkedIn](https://www.linkedin.com/in/phcharriere/), [Github](https://github.com/k33g), [Twitter](https://twitter.com/k33g_org))
- - Audience : ~130/140
- - Auteur du billet : Nicolas Douchin
+ - Audience : ~130
  - Mots-clés : Gitlab, Gitlab CI, continuous integration & delivery, test automation
  - URL de l'illustration : ![Avec les GitLab Runners, comme Mickey dans Fantasia, devenez un apprenti sorcier de l'intégration continue (et du déploiement)](illustration.jpg)
 
